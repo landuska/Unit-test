@@ -1,0 +1,14 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pokritie.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Landysh Khusaenova",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
